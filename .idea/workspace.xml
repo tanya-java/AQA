@@ -4,38 +4,165 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ad7861a-82ca-4182-b54e-d02a00aa136d" name="Default Changelist" comment="">
+    <list default="true" id="6ad7861a-82ca-4182-b54e-d02a00aa136d" name="Default Changelist" comment="ugkuy">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Heroku/DynamicControlsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Heroku/FileUploadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Heroku/HerokuTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Heroku/IFrameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SauseTests/CartCheckoutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SauseTests/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SauseTests/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SauseTests/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SauseTests/SauceLoginTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AddAndRemoveElementsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebTests/AddAndRemoveElementsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CheckboxesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebTests/CheckboxesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SauceTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SauseTests/SauceTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ZipCodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebTests/ZipCodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AddAndRemoveElementsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CheckboxesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ZipCodeTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lesson_7_task" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1tMAtiwOycxEFAVRSiZxedG0jSp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="D:/home/yermalitskaya/dev" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\aqa11\src\test\java" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\aqa11\src\test\java\Heroku" />
       <recent name="C:\Users\HP\aqa11\target" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="ZipCodeTest.enterValidZipCode" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.SauceLoginTest1.login">
+    <configuration name="DynamicControlsTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="aqa11" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ZipCodeTest" />
-      <option name="METHOD_NAME" value="enterValidZipCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Heroku.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Heroku" />
+      <option name="MAIN_CLASS_NAME" value="Heroku.DynamicControlsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileUploadTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="aqa11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Heroku.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Heroku" />
+      <option name="MAIN_CLASS_NAME" value="Heroku.FileUploadTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileUploadTest.upload" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="aqa11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Heroku.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Heroku" />
+      <option name="MAIN_CLASS_NAME" value="Heroku.FileUploadTest" />
+      <option name="METHOD_NAME" value="upload" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IFrameTest.checkText" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="aqa11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Heroku.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Heroku" />
+      <option name="MAIN_CLASS_NAME" value="Heroku.IFrameTest" />
+      <option name="METHOD_NAME" value="checkText" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SauceLoginTest1.login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="aqa11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SauseTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SauseTests" />
+      <option name="MAIN_CLASS_NAME" value="SauseTests.SauceLoginTest1" />
+      <option name="METHOD_NAME" value="login" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -45,7 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ZipCodeTest.enterValidZipCode" />
+        <item itemvalue="TestNG.SauceLoginTest1.login" />
+        <item itemvalue="TestNG.IFrameTest.checkText" />
+        <item itemvalue="TestNG.FileUploadTest.upload" />
+        <item itemvalue="TestNG.FileUploadTest" />
+        <item itemvalue="TestNG.DynamicControlsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -58,6 +189,87 @@
       <option name="presentableId" value="Default" />
       <updated>1622568802966</updated>
     </task>
+    <task id="LOCAL-00001" summary="ugkuy">
+      <created>1622571929762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622571929762</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tasks for lesson 6">
+      <created>1623346964856</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623346964856</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add and Remove Elements Test">
+      <created>1623347376401</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623347376401</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Checkboxes Test">
+      <created>1623347404805</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623347404805</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HTML page task for lesson 7">
+      <created>1623347897109</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1623347897109</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Lesson 8 task">
+      <created>1623779262384</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1623779262385</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Lesson 7 Task">
+      <created>1623779501582</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1623779501582</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Lesson 8 Task">
+      <created>1623782071809</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1623782071809</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ugkuy" />
+    <MESSAGE value="Tasks for lesson 6" />
+    <MESSAGE value="Add and Remove Elements Test" />
+    <MESSAGE value="Checkboxes Test" />
+    <MESSAGE value="HTML page task for lesson 7" />
+    <MESSAGE value="Lesson 8 task" />
+    <MESSAGE value="Lesson 7 Task" />
+    <MESSAGE value="Lesson 8 Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 8 Task" />
   </component>
 </project>
